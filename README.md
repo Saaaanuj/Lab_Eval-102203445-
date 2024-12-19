@@ -6,10 +6,7 @@ Welcome to the **Fuel Cell Performance Prediction** project! In this project, we
 
 - [Project Overview](#project-overview)
 - [Dependencies](#dependencies)
-- [Data Preprocessing](#data-preprocessing)
-- [Modeling and Evaluation](#modeling-and-evaluation)
-- [How to Run the Code](#how-to-run-the-code)
-- [License](#license)
+
 
 ## 🚀 Project Overview
 
